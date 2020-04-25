@@ -1,0 +1,13 @@
+@media only screen and (max-width: 767px) {
+
+	/*------- Isotope Filter Gallery Section Starts -------*/
+
+.bg-isotope-filter-gallery { padding: 15px 15px 0; }
+.gallery-listing { display: block; margin-bottom: 0; }
+.gallery-listing > li,
+.img-isotope-gallery { margin-bottom: 15px; }
+.grid-item { width: 100%; }
+
+	/*------- Isotope Filter Gallery Section Ends -------*/
+
+}
